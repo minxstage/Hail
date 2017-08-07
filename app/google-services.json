@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "177604591731",
+    "firebase_url": "https://hail-dc53f.firebaseio.com",
+    "project_id": "hail-dc53f",
+    "storage_bucket": "hail-dc53f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177604591731:android:d91650f98cd07b2d",
+        "android_client_info": {
+          "package_name": "com.minx.hail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177604591731-pnnkagjogrunf30sjkv7nfsh7if8bv5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfS9PNP-Pg1qRs4Y3bHMjRTKicW6WmyRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
